@@ -1,0 +1,5 @@
+The purpose of this lab was to refresh our memory on using the IntelliJ IDE, on using object oriented programming (classes, inheritance) and to get familiar with how labs work and writing lab reports.
+
+My solution to the lab was to firstly create an abstract class with information that is going to be true for all extensions of classes, as well as an abstract method. Then I extended this abstract class to create two new classes in the package called shapes, and three new classes in the package called employees. These new classes hold information that is specific to each instance. The abstract method from the parent class was fully implemented in each of the child classes. Within the body of this method information about the values assigned to the instance variables within each object are printed. In the shapes package the Rectangle class is also extended to create a new class for which the color is specified to be red. Finally, both packages include a main class which allows for testing and no errors were encountered.
+
+I have also learned how to write UML diagrams alongside these exercises.
